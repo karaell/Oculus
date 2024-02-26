@@ -1,0 +1,29 @@
+$mobile: 390px;
+$smallTablet: 768px;
+$largeTablet: 1024px;
+$desktop: 1280px;
+$largeDesktop: 1440px;
+$wideDesktop: 1600px;
+
+// colors
+$black: #141414;
+$blue: #007bfb;
+$blueHover: #3395fc;
+$lightBlue: #e0efff;
+$darkBlue: #1F78FF;
+$gray: #788095;
+$lightGray: #f4f6fb;
+$white: #ffffff;
+$red: #ED584E;
+$lightRed: #f17067;
+
+//radius
+$largeCardRadius: 32px;
+$largeCardMobileRadius: 24px;
+$mediumCardRadius: 16px;
+$smallCardRadius: 8px;
+$buttonRadius: 80px;
+
+@media (max-width: $largeTablet) {
+
+}
